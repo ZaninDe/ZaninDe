@@ -12,7 +12,7 @@ I'm Gabriel Zanin a Web Developer and passionate about technology. I Spend most 
 
 - 🔭 I am currently studying at [Unifesp](https://www.unifesp.br/)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with fuuny games.
+- 🤔 I’m looking for help with funny games.
 - 📫 How to reach me: gabriel.zaninde@gmail.com.
 - 😄 Pronouns: Coder, Zanin, gabrielzanin.
 - ⚡ Fun fact: I play games and pratice some sports.
