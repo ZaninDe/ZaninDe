@@ -10,7 +10,7 @@ I'm Gabriel Zanin a Web Developer and passionate about technology. I Spend most 
 
 <!-- TODO: Add last video link -->
 
-- 🔭I am currently studying at [Unifesp](https://www.unifesp.br/)
+- 🔭 I am currently studying at [Unifesp](https://www.unifesp.br/)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with fuuny games.
 - 📫 How to reach me: gabriel.zaninde@gmail.com.
