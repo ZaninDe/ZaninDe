@@ -22,8 +22,6 @@ I'm Gabriel Zanin a Web Developer and passionate about technology. I Spend most 
 <!-- TODO: Make technologies links takes you to repositories -->
 
 
-
-<br />
 <br />
 
 ####  Bizness
